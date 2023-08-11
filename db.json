@@ -211,7 +211,12 @@
       "gender": "male",
       "role": "user",
       "salary": "18091",
-      "department": "Support"
+      "department": "Support",
+      "authFields": [
+        "role",
+        "country",
+        "gender"
+      ]
     },
     {
       "id": 2,
@@ -376,21 +381,6 @@
       "country": "PL",
       "department": "Assistant",
       "salary": 19010,
-      "role": "user"
-    },
-    {
-      "id": 13,
-      "first_name": "Gwenny",
-      "last_name": "Sine",
-      "email": "gsinec@tripod.com",
-      "gender": "female",
-      "password": 337322,
-      "address": "11 Stephen Avenue",
-      "job_title": "Software Engineer III",
-      "phone": "5841457268",
-      "country": "ID",
-      "department": "Accountant",
-      "salary": 39081,
       "role": "user"
     },
     {
@@ -3707,7 +3697,7 @@
       "first_name": "Rayna",
       "last_name": "Kaubisch",
       "email": "rkaubisch6i@etsy.com",
-      "password": "$2a$10$qkW3GDlblVa16zZXA28rtOfrFavcofzDZOw91Ypp1rIiAspazjJOa",
+      "password": "$2a$10$chNNmjN8pATfypUB6q.D7u/bPFgRLFZzNBT2he4c9Ev66VXkwD3dS",
       "address": "737 Magdeline Center",
       "job_title": "Executive",
       "phone": "1021055545",
@@ -3715,7 +3705,7 @@
       "gender": "male",
       "role": "user",
       "salary": 9106,
-      "department": "Back_End"
+      "department": "Support"
     },
     {
       "id": 236,
@@ -3737,7 +3727,7 @@
       "first_name": "Aggy",
       "last_name": "Bansal",
       "email": "abansal6k@php.net",
-      "password": "$2a$10$fSr4xTECpsQdTevmb56I/eR5YwIwCnd6UGWgY1418c39Ohtm6JsxC",
+      "password": "$2a$10$l20j6IMzNVlPXKJWmsPXiO9KFGoHBIS0tzgpxehwBOMN05qnKOcc6",
       "address": "4129 Russell Alley",
       "job_title": "Developer III",
       "phone": "8126102299",
@@ -3745,7 +3735,7 @@
       "gender": "female",
       "role": "user",
       "salary": 47709,
-      "department": "Support"
+      "department": "Front_End"
     },
     {
       "id": 238,
@@ -3898,36 +3888,6 @@
       "role": "user"
     },
     {
-      "id": 248,
-      "first_name": "Portie",
-      "last_name": "Vardie",
-      "email": "pvardie6v@woothemes.com",
-      "gender": "male",
-      "password": 82079,
-      "address": "3413 Mariners Cove Road",
-      "job_title": "Budget/Accounting Analyst II",
-      "phone": "8309050491",
-      "country": "DO",
-      "department": "Back_End",
-      "salary": 26288,
-      "role": "user"
-    },
-    {
-      "id": 249,
-      "first_name": "Laurena",
-      "last_name": "Kesteven",
-      "email": "lkesteven6w@amazon.co.uk",
-      "gender": "female",
-      "password": 295677,
-      "address": "56839 Russell Lane",
-      "job_title": "Accountant",
-      "phone": "8321044258",
-      "country": "TH",
-      "department": "Back_End",
-      "salary": 21448,
-      "role": "user"
-    },
-    {
       "email": "yasser@mail.com",
       "password": "$2a$10$jR8rmNrg96GWNJY1FUiS8ew/qZxXzruUW/lU/O0D9jJmPEQwLAq1S",
       "id": 250,
@@ -3941,6 +3901,36 @@
       "country": "EG",
       "role": "admin",
       "salary": 30000
+    },
+    {
+      "id": 251,
+      "first_name": "Yasser",
+      "last_name": "Alnajjar",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$iSnJzodxmvCnMiXVsZqSVu3wke3WXW4aw8XbR5DXLvR/.QB7FZzXq",
+      "address": "giza",
+      "job_title": "Front End",
+      "phone": "01121081998",
+      "country": "EG",
+      "gender": "male",
+      "role": "Admin",
+      "salary": "70000",
+      "department": "Front_End"
+    },
+    {
+      "email": "ahmedabdo@gmail.com",
+      "password": "$2a$10$5h0pEerl5GYlTXBSzca9CeOMNHsCbZwmlKXSEStopt3YP.A8oVOfy",
+      "gender": "male",
+      "first_name": "Ahmed",
+      "last_name": "Abdo",
+      "address": "31 ahmed araby giza",
+      "job_title": "back end developer",
+      "phone": "01233156123",
+      "country": "EG",
+      "role": "user",
+      "salary": "15000",
+      "department": "Back_End",
+      "id": 252
     }
   ],
   "personal_informations": [
@@ -4199,14 +4189,6 @@
       "passport_expiry_date": "6/29/2023",
       "nationality": "United States",
       "number_of_children": 5
-    },
-    {
-      "id": 33,
-      "userId": 13,
-      "passport_no": "68-070-9350",
-      "passport_expiry_date": "11/14/2022",
-      "nationality": "Sweden",
-      "number_of_children": 4
     },
     {
       "id": 34,
@@ -5412,13 +5394,6 @@
       "phone": "8957452290"
     },
     {
-      "id": 96,
-      "userId": 13,
-      "relationship": "father",
-      "name": "Finley Pennyman",
-      "phone": "3438445529"
-    },
-    {
       "id": 97,
       "userId": 42,
       "relationship": "father",
@@ -5445,6 +5420,62 @@
       "relationship": "father",
       "name": "Cyndie Calbert",
       "phone": "1441915205"
+    }
+  ],
+  "holidays": [
+    {
+      "id": 1,
+      "name": "New Year",
+      "date": "2024-01-01",
+      "day": "Friday"
+    },
+    {
+      "id": 2,
+      "name": "Good Friday",
+      "date": "2023-09-14",
+      "day": "Friday"
+    },
+    {
+      "id": 3,
+      "name": "May Day",
+      "date": "2023-05-01",
+      "day": "Monday"
+    },
+    {
+      "id": 4,
+      "name": "May Day",
+      "date": "2023-05-01",
+      "day": "Monday"
+    },
+    {
+      "id": 5,
+      "name": "Memorial Day",
+      "date": "2023-05-28",
+      "day": "Monday"
+    },
+    {
+      "id": 6,
+      "name": "Ramzon",
+      "date": "2023-06-26",
+      "day": "Monday"
+    },
+    {
+      "id": 7,
+      "name": "Bakrid",
+      "date": "2023-09-02",
+      "day": "Saturday"
+    },
+    {
+      "id": 8,
+      "name": "Deepavali",
+      "date": "2023-10-18",
+      "day": "Wednesday"
+    },
+    {
+      "id": 9,
+      "name": "Christmas",
+      "date": "2023-12-25",
+      "day": "Monday"
     }
   ]
 }
