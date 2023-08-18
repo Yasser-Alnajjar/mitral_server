@@ -163,7 +163,11 @@
       "phone": "2137692840",
       "country": "NP",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 42019,
+=======
+      "salary": 19469,
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "role": "user",
       "department": "Support"
     },
@@ -173,8 +177,13 @@
       "last_name": "Ector",
       "email": "aector1@reuters.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 132018,
       "password": "$2a$10$Iea8YWeQx6jS7m6F60UyouRnDAOtHRBcYeHBifNqUkzCa9sDaNK1u",
+=======
+      "salary": 67830,
+      "password": "322740",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "9776 Sage Court",
       "job_title": "Product_Management",
       "phone": "8969807654",
@@ -193,7 +202,11 @@
       "phone": "4638111807",
       "country": "CN",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 81767,
+=======
+      "salary": 29562,
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "role": "user",
       "department": "Assistant"
     },
@@ -203,8 +216,13 @@
       "last_name": "Sprague",
       "email": "rsprague3@sohu.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 2770,
       "password": "$2a$10$Gy3NalI9beA0zInp4aVikeJEVtRDYTnqbzo4o8as2GPpEq81KxSz2",
+=======
+      "salary": 21514,
+      "password": "119795",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "54 Browning Court",
       "job_title": "Nurse Practicioner",
       "phone": "9865320043",
@@ -218,8 +236,13 @@
       "last_name": "Choudhury",
       "email": "jchoudhury4@so-net.ne.jp",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 72097,
       "password": "$2a$10$dnT76noEKAWUtFyTlYAWtOWp8Cah7QK3Sw8qQ4xX41Wdencu4/rh6",
+=======
+      "salary": 5299,
+      "password": "496894",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "70 Di Loreto Avenue",
       "job_title": "Associate Professor",
       "phone": "3109861824",
@@ -233,8 +256,13 @@
       "last_name": "Cobbledick",
       "email": "vcobbledick5@shutterfly.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 57008,
       "password": "$2a$10$JbyYb0JfSO6euWIeEXMOJ.vNZCC/9YcnHBh7BWrsJrQh7WnE8A.H.",
+=======
+      "salary": 35726,
+      "password": "277833",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "4700 Troy Junction",
       "job_title": "Web Developer I",
       "phone": "3199416569",
@@ -248,8 +276,13 @@
       "last_name": "Camoys",
       "email": "dcamoys6@github.io",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 7702,
       "password": "$2a$10$CH554AFexqhlgUXNvcm4Y.8ZLnJFxhzl61oCd7tQ3HCdfUR3PpAzC",
+=======
+      "salary": 9646,
+      "password": "280410",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "38307 Sundown Center",
       "job_title": "Civil Engineer",
       "phone": "3396045061",
@@ -263,8 +296,13 @@
       "last_name": "Storrier",
       "email": "mstorrier7@guardian.co.uk",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 30337,
       "password": "$2a$10$BdMFmrOGTPO5.hl2N7Zps.fRAGmmbPFhNedqiod6w9cDsZvqTXekC",
+=======
+      "salary": 69215,
+      "password": "454963",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "0253 Donald Circle",
       "job_title": "Structural Engineer",
       "phone": "1326261783",
@@ -278,8 +316,13 @@
       "last_name": "Oddey",
       "email": "joddey8@buzzfeed.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 42729,
       "password": "$2a$10$hwuRyOFmyBZJ1EvuqQAgnOd/sPKm2QtQK/zj6NgZjnSWCqOWbzLhC",
+=======
+      "salary": 44202,
+      "password": "448429",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "876 Nevada Plaza",
       "job_title": "Developer III",
       "phone": "5654281965",
@@ -293,8 +336,13 @@
       "last_name": "Holsall",
       "email": "gholsall9@netvibes.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": -7589,
       "password": "$2a$10$Pawsts1T0Hc7J6GQYAjK6uaF8FGucyKapYQARaDKxHcT9.lR7qVLu",
+=======
+      "salary": 15725,
+      "password": "150791",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "5 Northport Place",
       "job_title": "VP Sales",
       "phone": "5869161770",
@@ -308,8 +356,13 @@
       "last_name": "Bruhn",
       "email": "cbruhna@tmall.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 51,
       "password": "$2a$10$74fkGoFVMnBz25ilwKQz.OTlyOQYLlHSw8YvZxWTqcBLvbM0bgZ6u",
+=======
+      "salary": 47348,
+      "password": "206716",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "8 Graedel Center",
       "job_title": "Environmental Specialist",
       "phone": "7962744237",
@@ -323,8 +376,13 @@
       "last_name": "Linch",
       "email": "dlinchb@tinyurl.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": -4366,
       "password": "$2a$10$aGByUQVxc3sj/Wfn99Lr8u5L1LD76.xR935K/0iL1wyR7XLf35qMO",
+=======
+      "salary": 8122,
+      "password": "301996",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "651 Tony Road",
       "job_title": "Environmental Tech",
       "phone": "6096221482",
@@ -338,8 +396,13 @@
       "last_name": "Sazio",
       "email": "zsaziod@va.gov",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 63561,
       "password": "$2a$10$24EGE.8qwJTZO16ThRD05.SA62GSGO.5ugrn5lfe8uYPlx7Ga5GQS",
+=======
+      "salary": 62870,
+      "password": "427630",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "88 Petterle Junction",
       "job_title": "Account Coordinator",
       "phone": "4901159386",
@@ -353,8 +416,13 @@
       "last_name": "Gorgl",
       "email": "kgorgle@fastcompany.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 29859,
       "password": "$2a$10$K8ZZCnXZtHTOvzAnDc3QY./EtbHAF/g0shLPe1qeK7JPXouKKwGjC",
+=======
+      "salary": 67050,
+      "password": "423998",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "48 Parkside Drive",
       "job_title": "Technician",
       "phone": "9033557912",
@@ -368,8 +436,13 @@
       "last_name": "Scase",
       "email": "escasef@home.pl",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 42913,
       "password": "$2a$10$7ZEFaVkx6ZKo7zVi9oslY.LKkBDLiNmy5isDEfnvc8BDUXQQgQ3Cy",
+=======
+      "salary": 46586,
+      "password": "127792",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "1 Pond Pass",
       "job_title": "Human Resources Assistant III",
       "phone": "6692690047",
@@ -383,8 +456,13 @@
       "last_name": "Klimuk",
       "email": "aklimukg@a8.net",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 27017,
       "password": "$2a$10$EtjIo8qWOeMoNm4J1qLsa.6mzfCPo.IWp7R8t5jqW4fosmTWMDLji",
+=======
+      "salary": 27908,
+      "password": "303350",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "638 Portage Trail",
       "job_title": "Accountant",
       "phone": "4861075981",
@@ -398,8 +476,13 @@
       "last_name": "Stoyles",
       "email": "kstoylesh@opera.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 83994,
       "password": "$2a$10$qxdGStFyGIma8Xlvrv1Hzeawst.h1MNkniyrlH0ritreL1ycZGBdK",
+=======
+      "salary": 69504,
+      "password": "281501",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "8183 Londonderry Point",
       "job_title": "Product_Management",
       "phone": "7184378003",
@@ -413,8 +496,13 @@
       "last_name": "Saill",
       "email": "fsailli@flickr.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 46867,
       "password": "$2a$10$DDU.5YQEUqWG/qhnZR/OauflzanIkDOsRQ7t83NDSK81m/YndhDl6",
+=======
+      "salary": 22236,
+      "password": "245790",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6 Upham Plaza",
       "job_title": "Structural Engineer",
       "phone": "5536317887",
@@ -428,8 +516,13 @@
       "last_name": "Ricardet",
       "email": "mricardetj@addthis.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 69301,
       "password": "$2a$10$.5YT6c/7nz6/bhAYsnVlK.jRI7y7U.TDB5i5bZT1hgvuq9Jo.0LdC",
+=======
+      "salary": 49982,
+      "password": "262071",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "32350 Sunnyside Park",
       "job_title": "Product Engineer",
       "phone": "6127026856",
@@ -443,8 +536,13 @@
       "last_name": "McDirmid",
       "email": "qmcdirmidk@wordpress.org",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 11537,
       "password": "$2a$10$LchFXlVBvYeUPLF5lOkUIOJYIbFEktfgTjpseynIUh5AMVMLm9Z.m",
+=======
+      "salary": 11538,
+      "password": "229684",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "0 Forest Hill",
       "job_title": "Associate Professor",
       "phone": "2026786239",
@@ -458,8 +556,13 @@
       "last_name": "Gierth",
       "email": "mgierthl@auda.org.au",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 23545,
       "password": "$2a$10$mWXOsVJ359yvq5u4dU5RcusdrSRozdmYv7LAlMxAj3qEx5tkaQ9RO",
+=======
+      "salary": 22755,
+      "password": "173690",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "1 Oriole Circle",
       "job_title": "Desktop Support Technician",
       "phone": "2039811265",
@@ -473,8 +576,13 @@
       "last_name": "Martinello",
       "email": "rmartinellom@flickr.com",
       "gender": "Polygender",
+<<<<<<< HEAD
       "salary": 80104,
       "password": "$2a$10$wrNCsSEIQlb/0d6qJ5DZ7OUbdkkSEmV2UqzLA5TEAmIixsQDOFSIm",
+=======
+      "salary": 57675,
+      "password": "403586",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "3697 Thompson Park",
       "job_title": "Computer Systems Analyst II",
       "phone": "6851712198",
@@ -485,7 +593,11 @@
     {
       "id": 24,
       "gender": "male",
+<<<<<<< HEAD
       "salary": 79757,
+=======
+      "salary": 61829,
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "first_name": "Berrie",
       "last_name": "Flaxman",
       "email": "bflaxmann@nih.gov",
@@ -502,8 +614,13 @@
       "last_name": "Ferrao",
       "email": "lferraoo@prlog.org",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 56863,
       "password": "$2a$10$S18JGXg2vBGuRtjh/6v/yetat7oAI9CkQdUn0uSsIX8Nzk3C8Csvu",
+=======
+      "salary": 5660,
+      "password": "393660",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6073 Northland Road",
       "job_title": "Recruiting Manager",
       "phone": "7032921902",
@@ -517,8 +634,13 @@
       "last_name": "Petrolli",
       "email": "lpetrollip@dion.ne.jp",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 28255,
       "password": "$2a$10$1AZOgrD8Z9PDlHhJcJv4i.2U3Us96LThCqDjeNGY0fHT1nRccOlqK",
+=======
+      "salary": 15156,
+      "password": "56472",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "095 1st Center",
       "job_title": "Senior Quality Engineer",
       "phone": "6525297968",
@@ -532,8 +654,13 @@
       "last_name": "Anshell",
       "email": "kanshellq@instagram.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 28517,
       "password": "$2a$10$YB22k9xlzPdSr4.nNn3CxOnlY0BohdZHICr6gZPmjGwBwakkldhuy",
+=======
+      "salary": 13968,
+      "password": "104187",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "301 Waubesa Parkway",
       "job_title": "Assistant Manager",
       "phone": "9622034927",
@@ -547,8 +674,13 @@
       "last_name": "Dorre",
       "email": "mdorrer@squidoo.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 25745,
       "password": "$2a$10$PbbKApOhM56SubHtJfLKKeNohBj3zCKj8fcOO51FELkLaelj12Gvi",
+=======
+      "salary": 10852,
+      "password": "382099",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "2076 Eagan Lane",
       "job_title": "Graphic Designer",
       "phone": "2432325003",
@@ -562,8 +694,13 @@
       "last_name": "Coils",
       "email": "acoilss@flavors.me",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 30917,
       "password": "$2a$10$0wxgcUk1suwdffUl5ouZk.nZc1bN7Y2/iiIkYzg.4stvUsiRuVdl6",
+=======
+      "salary": 11421,
+      "password": "371382",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "7 Armistice Alley",
       "job_title": "Paralegal",
       "phone": "2307829288",
@@ -577,8 +714,13 @@
       "last_name": "Bagehot",
       "email": "bbagehott@wikia.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 30738,
       "password": "$2a$10$prX2ZGqu0drn4BiLyIVfN.6x7S5eHKAQqBGo2kXYSmS9/WU6N0BFy",
+=======
+      "salary": 7129,
+      "password": "395684",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "44273 Morrow Pass",
       "job_title": "Actuary",
       "phone": "2644898823",
@@ -592,8 +734,13 @@
       "last_name": "O'Clery",
       "email": "wocleryu@parallels.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 44884,
       "password": "$2a$10$Q/lH4c.wxxBLgOxssEmIgOY.NxlXgf9hq0vM0G4.bCOuUPLzbrdCu",
+=======
+      "salary": 25205,
+      "password": "245895",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "384 Sachtjen Center",
       "job_title": "Engineer III",
       "phone": "5217262103",
@@ -607,8 +754,13 @@
       "last_name": "Pellingar",
       "email": "rpellingarv@google.ru",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 78803,
       "password": "$2a$10$kf7PSe3xKfU7D9313wlF0ONH0wZNVZCbcKJZEjFuGz3ppLbrALKMi",
+=======
+      "salary": 57510,
+      "password": "228980",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "32073 Fallview Hill",
       "job_title": "Desk_Operator",
       "phone": "6844173591",
@@ -622,8 +774,13 @@
       "last_name": "Laraway",
       "email": "glarawayw@japanpost.jp",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 80445,
       "password": "$2a$10$TFkKNQ0HaPFDSh6INR6wqOEHrDAljAfkZFg.w/euUExmXfurXtyOK",
+=======
+      "salary": 65200,
+      "password": "468736",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "54962 Buena Vista Road",
       "job_title": "Editor",
       "phone": "7945118342",
@@ -637,8 +794,13 @@
       "last_name": "Chalmers",
       "email": "pchalmersx@free.fr",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 35528,
       "password": "$2a$10$xemFvLNudfGwfrNmvonhg.EPD31.MG2WrimtQNizCvSNsk8KTURgW",
+=======
+      "salary": 23294,
+      "password": "459699",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "313 Nobel Place",
       "job_title": "Senior Financial Analyst",
       "phone": "1596907589",
@@ -652,8 +814,13 @@
       "last_name": "Squibb",
       "email": "psquibby@indiegogo.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 65022,
       "password": "$2a$10$gzbDJ8P.m5FogKDo8f4Aau5OJCtVWWDph4hH/Xgy5UIYX1DTpDfjC",
+=======
+      "salary": 54173,
+      "password": "387488",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "56018 Birchwood Circle",
       "job_title": "Professor",
       "phone": "2701043508",
@@ -667,8 +834,13 @@
       "last_name": "Pitone",
       "email": "dpitonez@biblegateway.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 52924,
       "password": "$2a$10$B98LHPwdNJxC5KQnHsDTL.pfSDtw7wjFQ6gKuVifIgLhg38JFQmvi",
+=======
+      "salary": 38680,
+      "password": "251759",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "78 Trailsway Junction",
       "job_title": "Sales Associate",
       "phone": "5383795217",
@@ -682,8 +854,13 @@
       "last_name": "Bell",
       "email": "abell10@youtube.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 54822,
       "password": "$2a$10$cS2z6NCZsjlFq2QkVttLqOiUMNeuiMzrT.CS6o2JmKnaW37Cpxnbm",
+=======
+      "salary": 29904,
+      "password": "296551",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "44 Del Sol Junction",
       "job_title": "Quality",
       "phone": "6839161832",
@@ -697,8 +874,13 @@
       "last_name": "Yesenin",
       "email": "gyesenin11@aol.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 64383,
       "password": "$2a$10$.WR4AgvONqQYLiguumsYJeuT3HD9Pbo2SAsWTzd4iE9AvTJYkhlLq",
+=======
+      "salary": 43860,
+      "password": "178787",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "209 Dovetail Circle",
       "job_title": "Quality Engineer",
       "phone": "9062626024",
@@ -712,8 +894,13 @@
       "last_name": "Llop",
       "email": "cllop12@github.io",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 68445,
       "password": "$2a$10$YriRGeDPSSVS9M7lKGkLhuxGOzNNMCivhcZf8J2xaFoO7QUnUD/Ni",
+=======
+      "salary": 52756,
+      "password": "110333",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "1080 Namekagon Pass",
       "job_title": "Engineer IV",
       "phone": "4825037528",
@@ -727,8 +914,13 @@
       "last_name": "Hegerty",
       "email": "mhegerty13@npr.org",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 75690,
       "password": "$2a$10$.Szr7oozfMnM5pRBlMmVJ.dVBv5jRUS6xZjPzg0SgfI6NmdfR7bmW",
+=======
+      "salary": 52910,
+      "password": "188841",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "3667 Cottonwood Pass",
       "job_title": "Analyst Programmer",
       "phone": "6166947517",
@@ -742,8 +934,13 @@
       "last_name": "Reid",
       "email": "kreid14@mtv.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 40133,
       "password": "$2a$10$FPp9ZaN.4AHOHwQ6pjV8i.F.9NFXwlyU6.x1m8P/BqJKHXD/XkXkm",
+=======
+      "salary": 14932,
+      "password": "309707",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6018 Eagan Court",
       "job_title": "Engineer II",
       "phone": "8459745570",
@@ -757,8 +954,13 @@
       "last_name": "Tomisch",
       "email": "ttomisch15@drupal.org",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 44200,
       "password": "$2a$10$0kweJi03x22MmPLt8qBlBefooy2ZvYqOlZ1hrE8C.9ClkDibeZViC",
+=======
+      "salary": 32199,
+      "password": "154741",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "81 Texas Center",
       "job_title": "Civil Engineer",
       "phone": "6849158612",
@@ -772,8 +974,13 @@
       "last_name": "Jeves",
       "email": "tjeves16@gizmodo.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 80292,
       "password": "$2a$10$yDChjjDgT.hkqD0ZPDAndekSWbWOb24A9Of93HAAjftiIc1bEqlHa",
+=======
+      "salary": 62668,
+      "password": "356386",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "57 John Wall Way",
       "job_title": "Administrative Assistant II",
       "phone": "6098066232",
@@ -787,8 +994,13 @@
       "last_name": "Marc",
       "email": "cmarc17@washington.edu",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 82705,
       "password": "$2a$10$URD/W7B2GQxJHOCgWU3fOOlf50YEcgxVJYlqqL1kiYT6YWE3mDhHm",
+=======
+      "salary": 57320,
+      "password": "425316",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "09953 Hazelcrest Junction",
       "job_title": "Senior Sales Associate",
       "phone": "3361257250",
@@ -802,8 +1014,13 @@
       "last_name": "Slatten",
       "email": "islatten18@bing.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 47839,
       "password": "$2a$10$s2S3CWDkT06opk4dO7dY1OJgwePQxQsqIY/vJf00glo2tSefzTisi",
+=======
+      "salary": 25338,
+      "password": "353042",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "76082 Sachs Road",
       "job_title": "Research Nurse",
       "phone": "2901917307",
@@ -817,8 +1034,13 @@
       "last_name": "Satford",
       "email": "csatford19@businessinsider.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 29062,
       "password": "$2a$10$RdbDmm7IZCuG52oBRejly.jLecUWqUSufUk8VwZTKWWR2GOFqjIZm",
+=======
+      "salary": 12040,
+      "password": "64493",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "017 Brown Hill",
       "job_title": "Information Systems Manager",
       "phone": "4443818568",
@@ -832,8 +1054,13 @@
       "last_name": "Giffin",
       "email": "dgiffin1a@cmu.edu",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 43907,
       "password": "$2a$10$B8rQb019y4pzI7rJZFe2/OQkl.BVVGTiROBPqXM4.ZyyBm7KUg5qa",
+=======
+      "salary": 31844,
+      "password": "398656",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "66 Sunfield Pass",
       "job_title": "Recruiter",
       "phone": "5391313256",
@@ -847,8 +1074,13 @@
       "last_name": "Matusov",
       "email": "mmatusov1b@marriott.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 52520,
       "password": "$2a$10$uytm62x0aPNL2ha8HNrvd.ncEOxHHu933jIMXBvvS8tZQvs2sgQVW",
+=======
+      "salary": 30458,
+      "password": "196173",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "7 Warbler Plaza",
       "job_title": "Graphic Designer",
       "phone": "9369626399",
@@ -862,8 +1094,13 @@
       "last_name": "MacKee",
       "email": "emackee1c@google.fr",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 72437,
       "password": "$2a$10$HhZqsc695dsyKIM3QTZ6AOIiRb5DkoS2DjQVgumJg39SWT2KKbHWy",
+=======
+      "salary": 59789,
+      "password": "164383",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "9553 8th Avenue",
       "job_title": "Desktop Support Technician",
       "phone": "9549779310",
@@ -877,8 +1114,13 @@
       "last_name": "Manderson",
       "email": "gmanderson1d@ucla.edu",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 38778,
       "password": "$2a$10$h.8f4a2CffE0szHvhYrpZeiIcew46R50k5IphsT9YIho2Gb93BkD6",
+=======
+      "salary": 17538,
+      "password": "437672",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "487 Onsgard Plaza",
       "job_title": "Senior Editor",
       "phone": "3285337628",
@@ -892,8 +1134,13 @@
       "last_name": "Barthelet",
       "email": "sbarthelet1e@walmart.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 81229,
       "password": "$2a$10$2890K4U9KTPBXoHSms/aKuBDvG3ysxiI6nZ07.qCZoPaC6RXGSL1W",
+=======
+      "salary": 61363,
+      "password": "338408",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "98 Quincy Pass",
       "job_title": "Quality",
       "phone": "2238656617",
@@ -907,8 +1154,13 @@
       "last_name": "Blenkhorn",
       "email": "qblenkhorn1f@guardian.co.uk",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 22227,
       "password": "$2a$10$QuqcMjL9ajDqF7wQKKlQ6Ob9FD1aYHZVGlZzkhNrmPTPAIIyhBvGy",
+=======
+      "salary": 6460,
+      "password": "411606",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "78575 Golf View Crossing",
       "job_title": "Programmer III",
       "phone": "4311701961",
@@ -922,8 +1174,13 @@
       "last_name": "Dorot",
       "email": "ndorot1g@jalbum.net",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 59328,
       "password": "$2a$10$i0gTKTzoGfkM8LuAyHVBF.o558paTeCMylxjAoolcBs.LHf2F5Cze",
+=======
+      "salary": 6460,
+      "password": "204234",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "247 Independence Lane",
       "job_title": "Pathologist",
       "phone": "9762035632",
@@ -937,8 +1194,13 @@
       "last_name": "Sudy",
       "email": "rsudy1h@cloudflare.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 21020,
       "password": "$2a$10$rqNdiu.h/vnVpNPe5R3S1.xCTNMCerhV3XkB9B8asT.90sqb/0Pkq",
+=======
+      "salary": 9897,
+      "password": "226537",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "278 Mandrake Hill",
       "job_title": "Senior Editor",
       "phone": "7514056862",
@@ -952,8 +1214,13 @@
       "last_name": "Halton",
       "email": "jhalton1i@illinois.edu",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 84260,
       "password": "$2a$10$ieuv/q2isDFA4GwbYv2FROj.srWN1wgdFX5LznBSnwpYVNZaoJUwm",
+=======
+      "salary": 59521,
+      "password": "375949",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "0084 Warbler Drive",
       "job_title": "Office Assistant III",
       "phone": "7572476035",
@@ -967,8 +1234,13 @@
       "last_name": "Gilfoyle",
       "email": "ggilfoyle1j@indiegogo.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 64653,
       "password": "$2a$10$OFSaVXGeMQYAoPg5gmZgQurBldixyiph0L1Bclhok8j23b5GYNIA2",
+=======
+      "salary": 49536,
+      "password": "274112",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "9 Ruskin Plaza",
       "job_title": "Cost Accountant",
       "phone": "6276298956",
@@ -982,8 +1254,13 @@
       "last_name": "Thomel",
       "email": "ethomel1k@over-blog.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 55070,
       "password": "$2a$10$35VpvP.QXPM6GF0Uv9TvAulfBent4OD1MJ6V8Vytrvk9ZHKA6Zyim",
+=======
+      "salary": 44283,
+      "password": "113806",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "8198 Quincy Terrace",
       "job_title": "Senior Financial Analyst",
       "phone": "5795635282",
@@ -997,8 +1274,13 @@
       "last_name": "Bourthouloume",
       "email": "jbourthouloume1l@blogspot.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 56375,
       "password": "$2a$10$R1npMRjYp467pEnUWRY2WeD1ZOejqRDmi8WejqAyyvBUQp0jE1zie",
+=======
+      "salary": 27305,
+      "password": "436015",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "87 Heath Road",
       "job_title": "Director of Sales",
       "phone": "2516505122",
@@ -1012,8 +1294,13 @@
       "last_name": "Jordi",
       "email": "tjordi1m@photobucket.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 32281,
       "password": "$2a$10$sHi6EuGqN/p5E2MD9oILdugLia2Y9SXWvOTBT7se9XokA5mnK4mkK",
+=======
+      "salary": 45244,
+      "password": "497241",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "702 Oak Hill",
       "job_title": "Technical Writer",
       "phone": "5889476323",
@@ -1027,8 +1314,13 @@
       "last_name": "Faust",
       "email": "sfaust1n@fda.gov",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 43775,
       "password": "$2a$10$D9xjRfzPTy6mdYyqcYJtAu4n1C1NWweC4pv1wKz1BF2/XWV4MRjXC",
+=======
+      "salary": 26371,
+      "password": "85730",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "51 Menomonie Place",
       "job_title": "Professor",
       "phone": "8675570045",
@@ -1042,8 +1334,13 @@
       "last_name": "Waddams",
       "email": "wwaddams1o@cam.ac.uk",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 22756,
       "password": "$2a$10$OZbEtacr3/s2Lln/8Wo8p.SKZ9ry.NbAXxJVihVFLI0iXm43VxlTy",
+=======
+      "salary": 7608,
+      "password": "365523",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "82909 Randy Point",
       "job_title": "Marketing Manager",
       "phone": "9394891527",
@@ -1057,8 +1354,13 @@
       "last_name": "Huddle",
       "email": "chuddle1p@plala.or.jp",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 47722,
       "password": "$2a$10$bdTCkKL02XgtBvVR/CeUsOify61LFsFI2zDfIXtq9HiByF6bRDjJ6",
+=======
+      "salary": 52733,
+      "password": "351780",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "27371 Esch Hill",
       "job_title": "Structural Analysis Engineer",
       "phone": "1652325941",
@@ -1070,7 +1372,11 @@
       "id": 63,
       "department": "Editor",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 38455,
+=======
+      "salary": 26509,
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "first_name": "Rosabelle",
       "last_name": "Carlyle",
       "email": "rcarlyle1q@shareasale.com",
@@ -1087,8 +1393,13 @@
       "last_name": "McKern",
       "email": "imckern1r@state.gov",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 35574,
       "password": "$2a$10$kt2SQgcMEI0vB3VnnRrn1OX88qLMPDwFAF48119Ow7HMLrNqY635S",
+=======
+      "salary": 18277,
+      "password": "415686",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6409 6th Road",
       "job_title": "Accountant_IV",
       "phone": "7067425319",
@@ -1102,8 +1413,13 @@
       "last_name": "Estabrook",
       "email": "hestabrook1s@example.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 49129,
       "password": "$2a$10$z7L164WIT9ZFPJ2n6KTA2.Mmd1teAKRSSks4hSSIxrZ3ZCgE/0MRK",
+=======
+      "salary": 33473,
+      "password": "279234",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "12 Barnett Center",
       "job_title": "Geologist III",
       "phone": "9691719438",
@@ -1117,8 +1433,13 @@
       "last_name": "Lazare",
       "email": "flazare1t@delicious.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 82625,
       "password": "$2a$10$Skt3kJudtDeGHPsZ9P/R9OgcaY6I1P/1mV/n1RDIAlKmdkXlKTDUq",
+=======
+      "salary": 69093,
+      "password": "208932",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "9 Debra Alley",
       "job_title": "Administrative Assistant II",
       "phone": "3738480334",
@@ -1132,8 +1453,13 @@
       "last_name": "Stone",
       "email": "dstone1u@csmonitor.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 64999,
       "password": "$2a$10$S4794gIcWuOCqrYANA2OPe1cmyxYjU2LUicAHzC6pTfFDED4XNHgm",
+=======
+      "salary": 53846,
+      "password": "328723",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "3 Bartillon Drive",
       "job_title": "Structural Engineer",
       "phone": "9922761729",
@@ -1147,8 +1473,13 @@
       "last_name": "Murfett",
       "email": "cmurfett1v@dailymail.co.uk",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 83211,
       "password": "$2a$10$U9sPllfLLNmPkDt0tJ7GaeL9JJfZRsh0a46uQ/i0VBJEqr9ILAMa2",
+=======
+      "salary": 69991,
+      "password": "85146",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6476 Gale Street",
       "job_title": "Human Resources Assistant I",
       "phone": "4378708101",
@@ -1162,8 +1493,13 @@
       "last_name": "Yegorshin",
       "email": "ayegorshin1w@addthis.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 59334,
       "password": "$2a$10$fIz4DXQxMjZVO740n7YpWuJ88mLlIIknsKNJY8Wxz6yHMVYtMqkXW",
+=======
+      "salary": 69991,
+      "password": "231947",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "490 Fairview Pass",
       "job_title": "Quality Engineer",
       "phone": "6904608051",
@@ -1177,8 +1513,13 @@
       "last_name": "Brimilcombe",
       "email": "mbrimilcombe1x@wsj.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 65105,
       "password": "$2a$10$6DD09XKhfEfrHjbntnBcyuLejfipWAPQCq28HwzOk.nmKqTSktgVC",
+=======
+      "salary": 64147,
+      "password": "216414",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "730 Acker Plaza",
       "job_title": "Senior Developer",
       "phone": "4341611171",
@@ -1192,8 +1533,13 @@
       "last_name": "Ticksall",
       "email": "eticksall1y@whitehouse.gov",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 19221,
       "password": "$2a$10$q6.vH1KqEoQpQIFjK9MpU.ttffgmzzgSfwsuYpt7CaMZ3OUZRMswK",
+=======
+      "salary": 18886,
+      "password": "406321",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "5234 5th Avenue",
       "job_title": "Automation Specialist I",
       "phone": "6364931982",
@@ -1207,8 +1553,13 @@
       "last_name": "Iffland",
       "email": "diffland1z@is.gd",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 13160,
       "password": "$2a$10$rHrjFgpfYW0Uj8adQtl4h.dBZd8e4.D0SO5lb4JROvf4nCpRdZHtW",
+=======
+      "salary": 12181,
+      "password": "183848",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "807 Lindbergh Street",
       "job_title": "Database Administrator IV",
       "phone": "3089969897",
@@ -1222,8 +1573,13 @@
       "last_name": "Salmoni",
       "email": "asalmoni20@scribd.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 62016,
       "password": "$2a$10$pG3N8KInkhltcx7DOF2glOgUoUaI3Jaovb7QJ68aoXmAUtiOo2tHy",
+=======
+      "salary": 61126,
+      "password": "95270",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "2 Ruskin Crossing",
       "job_title": "Occupational Therapist",
       "phone": "9682501033",
@@ -1237,8 +1593,13 @@
       "last_name": "Pond",
       "email": "wpond21@google.com.au",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 67861,
       "password": "$2a$10$qxSy6JJi/Kj6/4N0Psct9e/JqGYABZBHE1DyTvsUo94R5FgODtk4S",
+=======
+      "salary": 67065,
+      "password": "309986",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6 Butterfield Lane",
       "job_title": "Statistician III",
       "phone": "3309826559",
@@ -1252,8 +1613,13 @@
       "last_name": "Bome",
       "email": "abome22@imgur.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 19390,
       "password": "$2a$10$1byGK1rlnWV2rDdO6I9wP.bc93rmB/l0/D4LCkzpvJs95cWkawzd.",
+=======
+      "salary": 18823,
+      "password": "235174",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "11171 Hoffman Circle",
       "job_title": "Editor",
       "phone": "7019437493",
@@ -1267,8 +1633,13 @@
       "last_name": "Mars",
       "email": "vmars23@biblegateway.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 11898,
       "password": "$2a$10$AEfhG7BriaK.AcRome6LveK5DVEh6TPgTjmxDnx.2kyLWuDXdN3Bm",
+=======
+      "salary": 11465,
+      "password": "389119",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "94297 Monterey Place",
       "job_title": "Administrative Assistant I",
       "phone": "1029018506",
@@ -1282,8 +1653,13 @@
       "last_name": "McGarrie",
       "email": "lmcgarrie24@bandcamp.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 16511,
       "password": "$2a$10$ztXjnY46.IR3Ss60hTUY7ebR31RVBKGpC8jygAJsdRHzHluymoCp6",
+=======
+      "salary": 15862,
+      "password": "93507",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "9 Express Plaza",
       "job_title": "Marketing Assistant",
       "phone": "9974898346",
@@ -1297,8 +1673,13 @@
       "last_name": "Garnett",
       "email": "bgarnett25@bizjournals.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 21947,
       "password": "$2a$10$cmNGjf6k3v9.uI3Mdkejd.04JAw0RDs1ZRzYTpIcKIJq65.w4dGxq",
+=======
+      "salary": 21563,
+      "password": "118729",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "792 7th Terrace",
       "job_title": "Graphic Designer",
       "phone": "9342451938",
@@ -1312,8 +1693,13 @@
       "last_name": "Mainstone",
       "email": "mmainstone26@census.gov",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 34394,
       "password": "$2a$10$NPyaTFYLEdK8oOE3FSmFr.wbn04LDJCERFuHhhN7XN3E/LyVOcBUq",
+=======
+      "salary": 34027,
+      "password": "61300",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "488 Cherokee Alley",
       "job_title": "Administrative Assistant IV",
       "phone": "4107626072",
@@ -1327,8 +1713,13 @@
       "last_name": "Ossenna",
       "email": "bossenna27@google.com.br",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 31824,
       "password": "$2a$10$KA0Xy5yACt6hI87WG7oTmOvp8FvMPTtEoMwJ1zfIR6RDzUG.K0wRm",
+=======
+      "salary": 31026,
+      "password": "286578",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "93752 5th Hill",
       "job_title": "Sales",
       "phone": "1405184220",
@@ -1342,8 +1733,13 @@
       "last_name": "Tidey",
       "email": "rtidey28@ovh.net",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 33846,
       "password": "$2a$10$uKSd28qLoljgKFJW3n8nh.l.UupEI7gzTPBHqfIf39Nw.ATH11JP.",
+=======
+      "salary": 33062,
+      "password": "228526",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "05891 Mesta Parkway",
       "job_title": "Engineer IV",
       "phone": "7151568997",
@@ -1357,8 +1753,13 @@
       "last_name": "Sired",
       "email": "ksired29@weebly.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 58841,
       "password": "$2a$10$KYmXdZL4iyVGmPmrSFRyJuZHclvNuFFNpwZPljInmkLJvhhHaHsuy",
+=======
+      "salary": 58301,
+      "password": "432213",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "386 Dakota Center",
       "job_title": "Quality Control Specialist",
       "phone": "9318488615",
@@ -1372,8 +1773,13 @@
       "last_name": "Valder",
       "email": "mvalder2a@yandex.ru",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 31504,
       "password": "$2a$10$L9nQd367FUy2X24dseCugOVFrydEBMnd02Qmb95.4YgvqbPEyWdo6",
+=======
+      "salary": 30542,
+      "password": "81111",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "63 Lighthouse Bay Crossing",
       "job_title": "Software Test Engineer I",
       "phone": "5142619541",
@@ -1387,8 +1793,13 @@
       "last_name": "Pitceathly",
       "email": "ipitceathly2b@shinystat.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 55935,
       "password": "$2a$10$z1rUeozSynASEHK346SCLuGaxi.IIY5ZdBj9SrnCbRFuzJD/BnlAK",
+=======
+      "salary": 30542,
+      "password": "407715",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "4658 Mitchell Point",
       "job_title": "Registered Nurse",
       "phone": "2757460272",
@@ -1402,8 +1813,13 @@
       "last_name": "Darlow",
       "email": "adarlow2c@jalbum.net",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 48160,
       "password": "$2a$10$nbJm8TXJIMr6m0DLIQAtwO6lPGC2w5WHEfDm0xeiiB/eNB8U59WnS",
+=======
+      "salary": 47857,
+      "password": "458699",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "2029 Randy Avenue",
       "job_title": "Pathologist",
       "phone": "2682737837",
@@ -1417,8 +1833,13 @@
       "last_name": "Nickell",
       "email": "knickell2d@creativecommons.org",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 60480,
       "password": "$2a$10$Yjl0/P7Of1GIAMPeKzgw9eFRlqH6EbS3l9CFwz06QjUSxz8zOOpzW",
+=======
+      "salary": 59784,
+      "password": "136110",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "23111 Eagle Crest Hill",
       "job_title": "Clinical Specialist",
       "phone": "2777724602",
@@ -1432,8 +1853,13 @@
       "last_name": "Pickin",
       "email": "lpickin2e@cdc.gov",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 52537,
       "password": "$2a$10$Xo6MJOWvbXXEDzTfxyKXjOdKq0CN44KRlkRtHV2T4h3BgRO2YsTvm",
+=======
+      "salary": 38561,
+      "password": "133363",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "51376 Rowland Road",
       "job_title": "General Manager",
       "phone": "2316674940",
@@ -1447,8 +1873,13 @@
       "last_name": "Sagg",
       "email": "osagg2f@slideshare.net",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 76812,
       "password": "$2a$10$j4VjmMUBqNOcJZPsU2qCQuAZGWJusg2VfiByUOA6N0VN2grofKGEy",
+=======
+      "salary": 54058,
+      "password": "200487",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "0386 Melby Street",
       "job_title": "Software Engineer III",
       "phone": "1957758587",
@@ -1462,8 +1893,13 @@
       "last_name": "Knath",
       "email": "cknath2g@list-manage.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 45500,
       "password": "$2a$10$A1O8q/j4HRONls1DmVucZuo.hpPoigGy4IO/kPEjasVltIpqfhIv2",
+=======
+      "salary": 34649,
+      "password": "442195",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "2 Sundown Street",
       "job_title": "Clinical Specialist",
       "phone": "8578137116",
@@ -1477,8 +1913,13 @@
       "last_name": "Jakubovsky",
       "email": "ajakubovsky2h@sphinn.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 68911,
       "password": "$2a$10$uUZgWEfwelgG/4IkUrjsSuen9NNQgJ.hzEvDeGwn.0ZJOqcRceBiq",
+=======
+      "salary": 68379,
+      "password": "50522",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "56594 Ludington Avenue",
       "job_title": "Analog Circuit Design manager",
       "phone": "9788378590",
@@ -1492,8 +1933,13 @@
       "last_name": "Reubel",
       "email": "creubel2i@biblegateway.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 79687,
       "password": "$2a$10$KUI6omyNrXQYfJp2FOBW7On4oY6DvK2urvIP87AmLkNX/7Id4M9Xm",
+=======
+      "salary": 68379,
+      "password": "236133",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "8 Laurel Alley",
       "job_title": "Nuclear Power Engineer",
       "phone": "2019384090",
@@ -1507,8 +1953,13 @@
       "last_name": "Liddiard",
       "email": "aliddiard2j@comcast.net",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 68151,
       "password": "$2a$10$TCRrxTQqRBr9vUxgAEQS.ulmRIQ9IZR8ObXdCa7/v4Bw0B7/pNHRm",
+=======
+      "salary": 54619,
+      "password": "441050",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "5 Superior Hill",
       "job_title": "Human Resources Assistant I",
       "phone": "4957402266",
@@ -1522,8 +1973,13 @@
       "last_name": "Leathem",
       "email": "gleathem2k@toplist.cz",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 79484,
       "password": "$2a$10$b0Ht/mSyxSzIBm9tf81gtOxT.qkZNNH7otQv4cKLnulf3Z6wRNo3.",
+=======
+      "salary": 67633,
+      "password": "421343",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "20277 Parkside Road",
       "job_title": "Geologist I",
       "phone": "7232138108",
@@ -1537,8 +1993,13 @@
       "last_name": "Strevens",
       "email": "kstrevens2l@about.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 48443,
       "password": "$2a$10$6k/41rjSDaFdrD3W7DjTde8.0iqw64htVCrIDHU/Cq4lJph/gwD4i",
+=======
+      "salary": 37393,
+      "password": "307956",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "0 Ramsey Parkway",
       "job_title": "Automation Specialist IV",
       "phone": "2161842242",
@@ -1552,8 +2013,13 @@
       "last_name": "Mariolle",
       "email": "rmariolle2m@sciencedirect.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 81392,
       "password": "$2a$10$D4f1tsbf5HHLCa9juEJfyOm1AkdhiQsZctEWUjLsNJOTzEZBIFCPK",
+=======
+      "salary": 65065,
+      "password": "273261",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "182 Portage Lane",
       "job_title": "Recruiter",
       "phone": "5546136950",
@@ -1567,8 +2033,13 @@
       "last_name": "Tordiffe",
       "email": "htordiffe2n@sourceforge.net",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 77459,
       "password": "$2a$10$Vtg2gOLCwFg6P48gIZIZgOU7HstBwrU6Bgdc.noDiXLohuZLKUcJe",
+=======
+      "salary": 60763,
+      "password": "224026",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "98 Marquette Drive",
       "job_title": "Payment Adjustment Coordinator",
       "phone": "3711134660",
@@ -1582,8 +2053,13 @@
       "last_name": "Coviello",
       "email": "scoviello2o@histats.com",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 64046,
       "password": "$2a$10$L00QUvpyDNSrK9YAyTOqGeKa4DX3DnrGgN62x9240IJAHdlhI4Hci",
+=======
+      "salary": "2618822",
+      "password": "306323",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "7947 Mandrake Drive",
       "job_title": "Pathologist",
       "phone": "4875022823",
@@ -1597,8 +2073,13 @@
       "last_name": "Cardoe",
       "email": "acardoe2p@barnesandnoble.com",
       "gender": "female",
+<<<<<<< HEAD
       "salary": 54130,
       "password": "$2a$10$VtPngztEEVPUw2Yk/94YXuFn4xb6qF5VvEcFqr9MH3astxsG2im72",
+=======
+      "salary": 40654,
+      "password": "262261",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "436 Del Sol Point",
       "job_title": "Civil Engineer",
       "phone": "1178240361",
@@ -1613,19 +2094,45 @@
       "first_name": "yasser",
       "last_name": "alnajjar",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 20543,
+=======
+      "salary": "526972",
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "address": "6 Linden Road",
       "job_title": "Assistant",
       "phone": "01121081998",
       "department": "Back_End",
       "country": "EG",
       "role": "admin"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": 100,
+      "first_name": "Yasser",
+      "last_name": "Alnajjar",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$BFqfoLd/mUOS0DTGuwUM/ORgzCX8F8LnjbFDWb9Uvl7wEgDRmn.Kq",
+      "address": "giza",
+      "job_title": "Front End",
+      "phone": "01121081998",
+      "country": "EG",
+      "gender": "male",
+      "salary": "4672122",
+      "role": "Admin",
+      "department": "Front_End"
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
     },
     {
       "email": "ahmedabdo@gmail.com",
       "password": "$2a$10$D7uN3/kA9PROr3Pfa.Y9luPHW7Llf5dOpQ7BbV83.bjihr3/jqd82",
       "gender": "male",
+<<<<<<< HEAD
       "salary": 47508,
+=======
+      "salary": 51691,
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
       "first_name": "Ahmed",
       "last_name": "Abdo",
       "address": "31 ahmed araby giza",
@@ -1635,6 +2142,7 @@
       "role": "user",
       "department": "Back_End",
       "id": 13
+<<<<<<< HEAD
     },
     {
       "email": "admin@gmail.com",
@@ -1650,6 +2158,8 @@
       "salary": 27631,
       "role": "Admin",
       "department": "Front_End"
+=======
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
     }
   ],
   "holidays": [
@@ -17427,6 +17937,7 @@
   "salary": [
     {
       "id": 1,
+<<<<<<< HEAD
       "first_name": "Nily",
       "last_name": "Batman",
       "salary": 19469,
@@ -18524,6 +19035,906 @@
       "other": "",
       "leave": 0,
       "total": 27631
+=======
+      "userId": 87,
+      "salary": 19469,
+      "conveyance": 604,
+      "medical": 21947,
+      "leave": 60772,
+      "tax": 2
+    },
+    {
+      "id": 2,
+      "userId": 20,
+      "salary": 67830,
+      "conveyance": 541,
+      "medical": 24566,
+      "leave": 11170,
+      "tax": 2
+    },
+    {
+      "id": 3,
+      "userId": 48,
+      "salary": 29562,
+      "conveyance": 911,
+      "medical": 24415,
+      "leave": 42782,
+      "tax": 2
+    },
+    {
+      "id": 4,
+      "userId": 61,
+      "salary": 21514,
+      "conveyance": 545,
+      "medical": 17581,
+      "leave": 36870,
+      "tax": 2
+    },
+    {
+      "id": 5,
+      "userId": 52,
+      "salary": 5299,
+      "conveyance": 873,
+      "medical": 19128,
+      "leave": 67412,
+      "tax": 2
+    },
+    {
+      "id": 6,
+      "userId": 19,
+      "salary": 35726,
+      "conveyance": 365,
+      "medical": 20918,
+      "leave": 49307,
+      "tax": 2
+    },
+    {
+      "id": 7,
+      "userId": 65,
+      "salary": 9646,
+      "conveyance": 862,
+      "medical": 10193,
+      "leave": 57718,
+      "tax": 2
+    },
+    {
+      "id": 8,
+      "userId": 11,
+      "salary": 69215,
+      "conveyance": 610,
+      "medical": 16716,
+      "leave": 56204,
+      "tax": 2
+    },
+    {
+      "id": 9,
+      "userId": 13,
+      "salary": 44202,
+      "conveyance": 682,
+      "medical": 18336,
+      "leave": 20491,
+      "tax": 2
+    },
+    {
+      "id": 10,
+      "userId": 38,
+      "salary": 15725,
+      "conveyance": 640,
+      "medical": 18199,
+      "leave": 42153,
+      "tax": 2
+    },
+    {
+      "id": 11,
+      "userId": 76,
+      "salary": 47348,
+      "conveyance": 646,
+      "medical": 12620,
+      "leave": 60563,
+      "tax": 2
+    },
+    {
+      "id": 12,
+      "userId": 39,
+      "salary": 8122,
+      "conveyance": 416,
+      "medical": 22884,
+      "leave": 35788,
+      "tax": 2
+    },
+    {
+      "id": 13,
+      "userId": 81,
+      "salary": 51691,
+      "conveyance": 688,
+      "medical": 11182,
+      "leave": 16053,
+      "tax": 2
+    },
+    {
+      "id": 14,
+      "userId": 79,
+      "salary": 62870,
+      "conveyance": 800,
+      "medical": 10865,
+      "leave": 6216,
+      "tax": 2
+    },
+    {
+      "id": 15,
+      "userId": 44,
+      "salary": 67050,
+      "conveyance": 492,
+      "medical": 12757,
+      "leave": 50440,
+      "tax": 2
+    },
+    {
+      "id": 16,
+      "userId": 37,
+      "salary": 46586,
+      "conveyance": 875,
+      "medical": 23425,
+      "leave": 27973,
+      "tax": 2
+    },
+    {
+      "id": 17,
+      "userId": 65,
+      "salary": 27908,
+      "conveyance": 723,
+      "medical": 22314,
+      "leave": 23928,
+      "tax": 2
+    },
+    {
+      "id": 18,
+      "userId": 11,
+      "salary": 69504,
+      "conveyance": 853,
+      "medical": 13639,
+      "leave": 19947,
+      "tax": 2
+    },
+    {
+      "id": 19,
+      "userId": 38,
+      "salary": 22236,
+      "conveyance": 469,
+      "medical": 24163,
+      "leave": 52833,
+      "tax": 2
+    },
+    {
+      "id": 20,
+      "userId": 35,
+      "salary": 49982,
+      "conveyance": 712,
+      "medical": 18590,
+      "leave": 20284,
+      "tax": 2
+    },
+    {
+      "id": 21,
+      "userId": 38,
+      "salary": 11538,
+      "conveyance": 398,
+      "medical": 13784,
+      "leave": 28658,
+      "tax": 2
+    },
+    {
+      "id": 22,
+      "userId": 87,
+      "salary": 22755,
+      "conveyance": 525,
+      "medical": 11024,
+      "leave": 7803,
+      "tax": 2
+    },
+    {
+      "id": 23,
+      "userId": 86,
+      "salary": 57675,
+      "conveyance": 387,
+      "medical": 22043,
+      "leave": 8764,
+      "tax": 2
+    },
+    {
+      "id": 24,
+      "userId": 79,
+      "salary": 61829,
+      "conveyance": 668,
+      "medical": 17260,
+      "leave": 64986,
+      "tax": 2
+    },
+    {
+      "id": 25,
+      "userId": 46,
+      "salary": 5660,
+      "conveyance": 845,
+      "medical": 16305,
+      "leave": 39831,
+      "tax": 2
+    },
+    {
+      "id": 26,
+      "userId": 7,
+      "salary": 15156,
+      "conveyance": 530,
+      "medical": 12569,
+      "leave": 50942,
+      "tax": 2
+    },
+    {
+      "id": 27,
+      "userId": 73,
+      "salary": 13968,
+      "conveyance": 748,
+      "medical": 13801,
+      "leave": 32516,
+      "tax": 2
+    },
+    {
+      "id": 28,
+      "userId": 93,
+      "salary": 10852,
+      "conveyance": 735,
+      "medical": 14158,
+      "leave": 36067,
+      "tax": 2
+    },
+    {
+      "id": 29,
+      "userId": 99,
+      "salary": 11421,
+      "conveyance": 754,
+      "medical": 18742,
+      "leave": 21192,
+      "tax": 2
+    },
+    {
+      "id": 30,
+      "userId": 41,
+      "salary": 7129,
+      "conveyance": 874,
+      "medical": 22735,
+      "leave": 16742,
+      "tax": 2
+    },
+    {
+      "id": 31,
+      "userId": 1,
+      "salary": 25205,
+      "conveyance": 311,
+      "medical": 19368,
+      "leave": 9297,
+      "tax": 2
+    },
+    {
+      "id": 32,
+      "userId": 9,
+      "salary": 57510,
+      "conveyance": 573,
+      "medical": 20720,
+      "leave": 63625,
+      "tax": 2
+    },
+    {
+      "id": 33,
+      "userId": 62,
+      "salary": 65200,
+      "conveyance": 674,
+      "medical": 14571,
+      "leave": 31416,
+      "tax": 2
+    },
+    {
+      "id": 34,
+      "userId": 100,
+      "salary": 23294,
+      "conveyance": 377,
+      "medical": 11859,
+      "leave": 21326,
+      "tax": 2
+    },
+    {
+      "id": 35,
+      "userId": 54,
+      "salary": 54173,
+      "conveyance": 683,
+      "medical": 10166,
+      "leave": 47085,
+      "tax": 2
+    },
+    {
+      "id": 36,
+      "userId": 3,
+      "salary": 38680,
+      "conveyance": 910,
+      "medical": 13334,
+      "leave": 49372,
+      "tax": 2
+    },
+    {
+      "id": 37,
+      "userId": 94,
+      "salary": 29904,
+      "conveyance": 765,
+      "medical": 24153,
+      "leave": 15769,
+      "tax": 2
+    },
+    {
+      "id": 38,
+      "userId": 98,
+      "salary": 43860,
+      "conveyance": 631,
+      "medical": 19892,
+      "leave": 32428,
+      "tax": 2
+    },
+    {
+      "id": 39,
+      "userId": 24,
+      "salary": 52756,
+      "conveyance": 887,
+      "medical": 14802,
+      "leave": 66274,
+      "tax": 2
+    },
+    {
+      "id": 40,
+      "userId": 25,
+      "salary": 52910,
+      "conveyance": 806,
+      "medical": 21974,
+      "leave": 13090,
+      "tax": 2
+    },
+    {
+      "id": 41,
+      "userId": 52,
+      "salary": 14932,
+      "conveyance": 998,
+      "medical": 24203,
+      "leave": 7153,
+      "tax": 2
+    },
+    {
+      "id": 42,
+      "userId": 84,
+      "salary": 32199,
+      "conveyance": 919,
+      "medical": 11082,
+      "leave": 46275,
+      "tax": 2
+    },
+    {
+      "id": 43,
+      "userId": 100,
+      "salary": 62668,
+      "conveyance": 995,
+      "medical": 16629,
+      "leave": 8347,
+      "tax": 2
+    },
+    {
+      "id": 44,
+      "userId": 87,
+      "salary": 57320,
+      "conveyance": 568,
+      "medical": 24819,
+      "leave": 35035,
+      "tax": 2
+    },
+    {
+      "id": 45,
+      "userId": 80,
+      "salary": 25338,
+      "conveyance": 544,
+      "medical": 21957,
+      "leave": 22088,
+      "tax": 2
+    },
+    {
+      "id": 46,
+      "userId": 60,
+      "salary": 12040,
+      "conveyance": 379,
+      "medical": 16643,
+      "leave": 39983,
+      "tax": 2
+    },
+    {
+      "id": 47,
+      "userId": 99,
+      "salary": 31844,
+      "conveyance": 335,
+      "medical": 11728,
+      "leave": 7525,
+      "tax": 2
+    },
+    {
+      "id": 48,
+      "userId": 65,
+      "salary": 30458,
+      "conveyance": 909,
+      "medical": 21153,
+      "leave": 49433,
+      "tax": 2
+    },
+    {
+      "id": 49,
+      "userId": 37,
+      "salary": 59789,
+      "conveyance": 320,
+      "medical": 12328,
+      "leave": 52629,
+      "tax": 2
+    },
+    {
+      "id": 50,
+      "userId": 63,
+      "salary": 17538,
+      "conveyance": 338,
+      "medical": 20902,
+      "leave": 43327,
+      "tax": 2
+    },
+    {
+      "id": 51,
+      "userId": 34,
+      "salary": 61363,
+      "conveyance": 943,
+      "medical": 18923,
+      "leave": 55169,
+      "tax": 2
+    },
+    {
+      "id": 52,
+      "userId": 58,
+      "salary": 6460,
+      "conveyance": 531,
+      "medical": 15236,
+      "leave": 19584,
+      "tax": 2
+    },
+    {
+      "id": 53,
+      "userId": 20,
+      "salary": 46529,
+      "conveyance": 890,
+      "medical": 11909,
+      "leave": 59187,
+      "tax": 2
+    },
+    {
+      "id": 54,
+      "userId": 58,
+      "salary": 9897,
+      "conveyance": 426,
+      "medical": 10697,
+      "leave": 28979,
+      "tax": 2
+    },
+    {
+      "id": 55,
+      "userId": 54,
+      "salary": 59521,
+      "conveyance": 901,
+      "medical": 23838,
+      "leave": 22943,
+      "tax": 2
+    },
+    {
+      "id": 56,
+      "userId": 78,
+      "salary": 49536,
+      "conveyance": 866,
+      "medical": 14251,
+      "leave": 18443,
+      "tax": 2
+    },
+    {
+      "id": 57,
+      "userId": 43,
+      "salary": 44283,
+      "conveyance": 416,
+      "medical": 10371,
+      "leave": 14372,
+      "tax": 2
+    },
+    {
+      "id": 58,
+      "userId": 23,
+      "salary": 27305,
+      "conveyance": 847,
+      "medical": 23023,
+      "leave": 35941,
+      "tax": 2
+    },
+    {
+      "id": 59,
+      "userId": 23,
+      "salary": 45244,
+      "conveyance": 729,
+      "medical": 18349,
+      "leave": 37241,
+      "tax": 2
+    },
+    {
+      "id": 60,
+      "userId": 89,
+      "salary": 26371,
+      "conveyance": 946,
+      "medical": 16458,
+      "leave": 40169,
+      "tax": 2
+    },
+    {
+      "id": 61,
+      "userId": 21,
+      "salary": 7608,
+      "conveyance": 545,
+      "medical": 14593,
+      "leave": 42402,
+      "tax": 2
+    },
+    {
+      "id": 62,
+      "userId": 65,
+      "salary": 52733,
+      "conveyance": 553,
+      "medical": 20760,
+      "leave": 26335,
+      "tax": 2
+    },
+    {
+      "id": 63,
+      "userId": 7,
+      "salary": 26509,
+      "conveyance": 948,
+      "medical": 10999,
+      "leave": 40943,
+      "tax": 2
+    },
+    {
+      "id": 64,
+      "userId": 48,
+      "salary": 18277,
+      "conveyance": 428,
+      "medical": 16870,
+      "leave": 47122,
+      "tax": 2
+    },
+    {
+      "id": 65,
+      "userId": 90,
+      "salary": 33473,
+      "conveyance": 635,
+      "medical": 15021,
+      "leave": 13505,
+      "tax": 2
+    },
+    {
+      "id": 66,
+      "userId": 85,
+      "salary": 69093,
+      "conveyance": 838,
+      "medical": 12694,
+      "leave": 39559,
+      "tax": 2
+    },
+    {
+      "id": 67,
+      "userId": 21,
+      "salary": 53846,
+      "conveyance": 752,
+      "medical": 10401,
+      "leave": 37508,
+      "tax": 2
+    },
+    {
+      "id": 68,
+      "userId": 75,
+      "salary": 69991,
+      "conveyance": 990,
+      "medical": 12230,
+      "leave": 49742,
+      "tax": 2
+    },
+    {
+      "id": 69,
+      "userId": 90,
+      "salary": 58463,
+      "conveyance": 871,
+      "medical": 24444,
+      "leave": 54169,
+      "tax": 2
+    },
+    {
+      "id": 70,
+      "userId": 78,
+      "salary": 64147,
+      "conveyance": 958,
+      "medical": 23534,
+      "leave": 13387,
+      "tax": 2
+    },
+    {
+      "id": 71,
+      "userId": 8,
+      "salary": 18886,
+      "conveyance": 335,
+      "medical": 17385,
+      "leave": 44171,
+      "tax": 2
+    },
+    {
+      "id": 72,
+      "userId": 2,
+      "salary": 12181,
+      "conveyance": 979,
+      "medical": 14362,
+      "leave": 14391,
+      "tax": 2
+    },
+    {
+      "id": 73,
+      "userId": 47,
+      "salary": 61126,
+      "conveyance": 890,
+      "medical": 19400,
+      "leave": 51331,
+      "tax": 2
+    },
+    {
+      "id": 74,
+      "userId": 23,
+      "salary": 67065,
+      "conveyance": 796,
+      "medical": 21402,
+      "leave": 7599,
+      "tax": 2
+    },
+    {
+      "id": 75,
+      "userId": 82,
+      "salary": 18823,
+      "conveyance": 567,
+      "medical": 12523,
+      "leave": 20453,
+      "tax": 2
+    },
+    {
+      "id": 76,
+      "userId": 22,
+      "salary": 11465,
+      "conveyance": 433,
+      "medical": 20918,
+      "leave": 13595,
+      "tax": 2
+    },
+    {
+      "id": 77,
+      "userId": 72,
+      "salary": 15862,
+      "conveyance": 649,
+      "medical": 17077,
+      "leave": 5105,
+      "tax": 2
+    },
+    {
+      "id": 78,
+      "userId": 23,
+      "salary": 21563,
+      "conveyance": 384,
+      "medical": 19168,
+      "leave": 21128,
+      "tax": 2
+    },
+    {
+      "id": 79,
+      "userId": 86,
+      "salary": 34027,
+      "conveyance": 367,
+      "medical": 19927,
+      "leave": 36686,
+      "tax": 2
+    },
+    {
+      "id": 80,
+      "userId": 10,
+      "salary": 31026,
+      "conveyance": 798,
+      "medical": 20676,
+      "leave": 32895,
+      "tax": 2
+    },
+    {
+      "id": 81,
+      "userId": 28,
+      "salary": 33062,
+      "conveyance": 784,
+      "medical": 20702,
+      "leave": 59109,
+      "tax": 2
+    },
+    {
+      "id": 82,
+      "userId": 82,
+      "salary": 58301,
+      "conveyance": 540,
+      "medical": 11325,
+      "leave": 16836,
+      "tax": 2
+    },
+    {
+      "id": 83,
+      "userId": 90,
+      "salary": 30542,
+      "conveyance": 962,
+      "medical": 21416,
+      "leave": 58198,
+      "tax": 2
+    },
+    {
+      "id": 84,
+      "userId": 96,
+      "salary": 55365,
+      "conveyance": 570,
+      "medical": 16593,
+      "leave": 41503,
+      "tax": 2
+    },
+    {
+      "id": 85,
+      "userId": 62,
+      "salary": 47857,
+      "conveyance": 303,
+      "medical": 23699,
+      "leave": 6443,
+      "tax": 2
+    },
+    {
+      "id": 86,
+      "userId": 28,
+      "salary": 59784,
+      "conveyance": 696,
+      "medical": 24527,
+      "leave": 46558,
+      "tax": 2
+    },
+    {
+      "id": 87,
+      "userId": 38,
+      "salary": 38561,
+      "conveyance": 953,
+      "medical": 13023,
+      "leave": 17733,
+      "tax": 2
+    },
+    {
+      "id": 88,
+      "userId": 55,
+      "salary": 54058,
+      "conveyance": 805,
+      "medical": 22010,
+      "leave": 63119,
+      "tax": 2
+    },
+    {
+      "id": 89,
+      "userId": 61,
+      "salary": 34649,
+      "conveyance": 796,
+      "medical": 10055,
+      "leave": 61425,
+      "tax": 2
+    },
+    {
+      "id": 90,
+      "userId": 40,
+      "salary": 68379,
+      "conveyance": 911,
+      "medical": 22949,
+      "leave": 29370,
+      "tax": 2
+    },
+    {
+      "id": 91,
+      "userId": 21,
+      "salary": 64581,
+      "conveyance": 392,
+      "medical": 14716,
+      "leave": 30822,
+      "tax": 2
+    },
+    {
+      "id": 92,
+      "userId": 10,
+      "salary": 54619,
+      "conveyance": 583,
+      "medical": 12950,
+      "leave": 46065,
+      "tax": 2
+    },
+    {
+      "id": 93,
+      "userId": 84,
+      "salary": 67633,
+      "conveyance": 866,
+      "medical": 11619,
+      "leave": 44956,
+      "tax": 2
+    },
+    {
+      "id": 94,
+      "userId": 33,
+      "salary": 37393,
+      "conveyance": 712,
+      "medical": 10339,
+      "leave": 43010,
+      "tax": 2
+    },
+    {
+      "id": 95,
+      "userId": 22,
+      "salary": 65065,
+      "conveyance": 673,
+      "medical": 15655,
+      "leave": 45895,
+      "tax": 2
+    },
+    {
+      "id": 96,
+      "salary": 60763,
+      "conveyance": 505,
+      "medical": 16955,
+      "leave": 30700,
+      "tax": 2,
+      "other": ""
+    },
+    {
+      "id": 97,
+      "userId": 22,
+      "salary": "2618822",
+      "conveyance": 454,
+      "medical": 18710,
+      "leave": 44671,
+      "tax": 2
+    },
+    {
+      "id": 98,
+      "userId": 81,
+      "salary": "406502",
+      "conveyance": 731,
+      "medical": 12750,
+      "leave": 51756,
+      "tax": 2
+    },
+    {
+      "id": 99,
+      "userId": "99",
+      "salary": "222222",
+      "conveyance": "222",
+      "medical": "22",
+      "leave": 14815,
+      "other": "",
+      "tax": "2%"
+    },
+    {
+      "id": 100,
+      "salary": "4672122",
+      "conveyance": 921,
+      "medical": 24456,
+      "leave": 40018,
+      "tax": 2,
+      "other": ""
+>>>>>>> 9a4ff2ac5bdeff7baa4cd0c5cf5a89c05ab77fed
     }
   ]
 }
