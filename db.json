@@ -353,8 +353,8 @@
       "last_name": "Gorgl",
       "email": "kgorgle@fastcompany.com",
       "gender": "female",
-      "salary": 29859,
-      "password": "$2a$10$K8ZZCnXZtHTOvzAnDc3QY./EtbHAF/g0shLPe1qeK7JPXouKKwGjC",
+      "salary": 80299,
+      "password": "$2a$10$S/.s63qnG8e75I2ZFNr3zuDRBknBC26O.RIYW.UbPTPKJ4iEBLq3q",
       "address": "48 Parkside Drive",
       "job_title": "Technician",
       "phone": "9033557912",
@@ -368,8 +368,8 @@
       "last_name": "Scase",
       "email": "escasef@home.pl",
       "gender": "male",
-      "salary": 42913,
-      "password": "$2a$10$7ZEFaVkx6ZKo7zVi9oslY.LKkBDLiNmy5isDEfnvc8BDUXQQgQ3Cy",
+      "salary": 70885,
+      "password": "$2a$10$6JVxu/BguuIS6TfH9ud1KOwpDgEjyqCcybMTDXN9W6wkZ410BOXpa",
       "address": "1 Pond Pass",
       "job_title": "Human Resources Assistant III",
       "phone": "6692690047",
@@ -383,8 +383,8 @@
       "last_name": "Klimuk",
       "email": "aklimukg@a8.net",
       "gender": "male",
-      "salary": 27017,
-      "password": "$2a$10$EtjIo8qWOeMoNm4J1qLsa.6mzfCPo.IWp7R8t5jqW4fosmTWMDLji",
+      "salary": 50940,
+      "password": "$2a$10$w64Wa9oxbVmD7oNxo71k6utC2tZQodiBpiPtMO8TwzfdHASoRKqIi",
       "address": "638 Portage Trail",
       "job_title": "Accountant",
       "phone": "4861075981",
@@ -458,8 +458,8 @@
       "last_name": "Gierth",
       "email": "mgierthl@auda.org.au",
       "gender": "male",
-      "salary": 23545,
-      "password": "$2a$10$mWXOsVJ359yvq5u4dU5RcusdrSRozdmYv7LAlMxAj3qEx5tkaQ9RO",
+      "salary": 24302,
+      "password": "$2a$10$pKtmSquXUlG6G5cKfWbp7e.2F69OTnutjHw9jsnmM6dmY3elMSp0W",
       "address": "1 Oriole Circle",
       "job_title": "Desktop Support Technician",
       "phone": "2039811265",
@@ -502,8 +502,8 @@
       "last_name": "Ferrao",
       "email": "lferraoo@prlog.org",
       "gender": "female",
-      "salary": 56863,
-      "password": "$2a$10$S18JGXg2vBGuRtjh/6v/yetat7oAI9CkQdUn0uSsIX8Nzk3C8Csvu",
+      "salary": 58749,
+      "password": "$2a$10$L.plwcz6a24fhkoJzXfz.uaJIRDOh04SAaZIYWlJ3wjCA02Xz4XDu",
       "address": "6073 Northland Road",
       "job_title": "Recruiting Manager",
       "phone": "7032921902",
@@ -1012,8 +1012,8 @@
       "last_name": "Jordi",
       "email": "tjordi1m@photobucket.com",
       "gender": "female",
-      "salary": 32281,
-      "password": "$2a$10$sHi6EuGqN/p5E2MD9oILdugLia2Y9SXWvOTBT7se9XokA5mnK4mkK",
+      "salary": 69521,
+      "password": "$2a$10$Gx8e94l0Xw12ffDhpfsWHu86CQRaCKSNEfQF2dm1mcPtOEpOQTO6K",
       "address": "702 Oak Hill",
       "job_title": "Technical Writer",
       "phone": "5889476323",
@@ -1057,8 +1057,8 @@
       "last_name": "Huddle",
       "email": "chuddle1p@plala.or.jp",
       "gender": "female",
-      "salary": 47722,
-      "password": "$2a$10$bdTCkKL02XgtBvVR/CeUsOify61LFsFI2zDfIXtq9HiByF6bRDjJ6",
+      "salary": 74056,
+      "password": "$2a$10$F0eTL7.f/i7cWn.pGUvmc.NyaPiDfNAM0YuJbW4i9aT13F4nPqSkC",
       "address": "27371 Esch Hill",
       "job_title": "Structural Analysis Engineer",
       "phone": "1652325941",
@@ -1650,6 +1650,21 @@
       "salary": 27631,
       "role": "Admin",
       "department": "Front_End"
+    },
+    {
+      "email": "panda@mail.com",
+      "password": "$2a$10$QxOAR7fcTuQ60xZ668qmhenfQEDOqcTHhCVbvEE3Re9ttYHORHlZG",
+      "gender": "female",
+      "first_name": "Panda",
+      "last_name": "Code",
+      "address": "bamboo forests",
+      "job_title": "Eat Bamboo",
+      "phone": "8969807654",
+      "country": "SR",
+      "role": "user",
+      "salary": 49998,
+      "department": "Front_End",
+      "id": 101
     }
   ],
   "holidays": [
@@ -17412,16 +17427,20 @@
   ],
   "overtime": [
     {
-      "id": 1,
-      "userId": 1,
-      "overtime_hours": 4,
-      "hourly_rate": 30
+      "id": 2,
+      "hours": "2",
+      "date": "2023-08-19",
+      "userId": "101",
+      "first_name": "Panda",
+      "last_name": "Code"
     },
     {
-      "id": 2,
-      "userId": 2,
-      "overtime_hours": 7,
-      "hourly_rate": 30
+      "id": 3,
+      "hours": "4",
+      "date": "2023-08-20",
+      "userId": "100",
+      "first_name": "Yasser",
+      "last_name": "Alnajjar"
     }
   ],
   "salary": [
@@ -17586,9 +17605,9 @@
       "salary": 67050,
       "conveyance": 492,
       "medical": 12757,
-      "other": "",
-      "leave": 50440,
-      "total": 29859
+      "other": 0,
+      "leave": 0,
+      "total": 80299
     },
     {
       "id": 16,
@@ -17597,9 +17616,9 @@
       "salary": 46586,
       "conveyance": 875,
       "medical": 23425,
-      "other": "",
-      "leave": 27973,
-      "total": 42913
+      "other": 0,
+      "leave": 1553,
+      "total": 70885
     },
     {
       "id": 17,
@@ -17608,9 +17627,9 @@
       "salary": 27908,
       "conveyance": 723,
       "medical": 22314,
-      "other": "",
-      "leave": 23928,
-      "total": 27017
+      "other": 0,
+      "leave": 4652,
+      "total": 50940
     },
     {
       "id": 18,
@@ -17663,9 +17682,9 @@
       "salary": 22755,
       "conveyance": 525,
       "medical": "1024",
-      "other": "",
-      "leave": 575702,
-      "total": 23545
+      "other": 0,
+      "leave": 1517,
+      "total": 24302
     },
     {
       "id": 23,
@@ -17696,9 +17715,9 @@
       "salary": "56600",
       "conveyance": 845,
       "medical": "1305",
-      "other": "",
-      "leave": 3560140,
-      "total": 56863
+      "other": 0,
+      "leave": 1887,
+      "total": 58749
     },
     {
       "id": 26,
@@ -18071,8 +18090,8 @@
       "conveyance": 729,
       "medical": 18349,
       "other": "5200",
-      "leave": 56164394,
-      "total": 32281
+      "leave": 1509,
+      "total": 69521
     },
     {
       "id": 60,
@@ -18104,8 +18123,8 @@
       "conveyance": 553,
       "medical": 20760,
       "other": "11",
-      "leave": 46290786,
-      "total": 47722
+      "leave": 1758,
+      "total": 74056
     },
     {
       "id": 63,
@@ -18521,6 +18540,17 @@
       "other": "",
       "leave": 0,
       "total": 27631
+    },
+    {
+      "id": "101",
+      "first_name": "Panda",
+      "last_name": "Code",
+      "salary": "50000",
+      "conveyance": "0",
+      "medical": "0",
+      "other": 0,
+      "leave": 3334,
+      "total": 49998
     }
   ]
 }
