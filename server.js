@@ -18,8 +18,8 @@ const routes = {
   "/tasks/:id": "/660/tasks/:id",
   "/employees": "/660/employees",
   "/employees/:id": "/660/employees/:id",
-  "/attendance": "/660/attendance",
-  "/attendance/:id": "/660/attendance/:id",
+  "/leaves": "/660/leaves",
+  "/leaves/:id": "/660/leaves/:id",
 };
 app.use(jsonServer.rewriter(routes));
 app.use(middlewares);
