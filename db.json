@@ -113,28 +113,60 @@
   ],
   "tasks": [
     {
-      "startDate": "2023-02-28",
-      "endDate": "2023-03-15",
-      "taskname": "E commerce",
-      "description": "this is full stack project",
-      "employee": "yasser",
-      "id": 1
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
     },
     {
-      "startDate": "2023-02-23",
-      "endDate": "2023-02-28",
-      "taskname": "New Task",
-      "description": "this is task for testing",
-      "employee": "Ahmed",
-      "id": 3
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
     },
     {
-      "startDate": "2024-01-01",
-      "endDate": "2022-01-01",
-      "taskname": "Yasser",
-      "description": "i am yaser",
-      "employee": "yaser",
-      "id": 5
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
+    },
+    {
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
+    },
+    {
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
+    },
+    {
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
+    },
+    {
+      "id": "105",
+      "employee": "Osama Elazero",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "title": "website",
+      "from": "2023-08-01",
+      "to": "2023-09-09"
     }
   ],
   "roles": [
@@ -1607,19 +1639,19 @@
       "role": "user"
     },
     {
-      "email": "yasser@mail.com",
-      "password": "$2a$10$1InAQ16tWEsMntRk3IdJ/ehs05rz0L33v.l0SeB4IaEWGDyNzQkXW",
       "id": 99,
       "first_name": "yasser",
       "last_name": "alnajjar",
-      "gender": "male",
-      "salary": 20543,
+      "email": "yasser@mail.com",
+      "password": "$2a$10$38WODxhg6LzE/47kE06A0.PREMDOyk688c/YQSlJrWyQfdMq.Bh5.",
       "address": "6 Linden Road",
       "job_title": "Assistant",
       "phone": "01121081998",
-      "department": "Back_End",
       "country": "EG",
-      "role": "admin"
+      "gender": "male",
+      "role": "admin",
+      "salary": 20543,
+      "department": "Front_End"
     },
     {
       "email": "ahmedabdo@gmail.com",
@@ -1665,6 +1697,66 @@
       "salary": 49998,
       "department": "Front_End",
       "id": 101
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$6fw2XDja9ni96CZj4E4Tiu3MO3mqQY4.ujizu14TmOVkT8S4Xv8fG",
+      "department": "Support",
+      "gender": "male",
+      "first_name": "Yasser",
+      "last_name": "Admin",
+      "address": "giza",
+      "job_title": "Admin",
+      "phone": "01090179792",
+      "country": "EG",
+      "role": "Admin",
+      "salary": "00000",
+      "id": 103
+    },
+    {
+      "email": "ahmednasser@mail.com",
+      "password": "$2a$10$BOds0C2tgcGLQI899k15V.EYSuEuMofTzMchSBUAdBnV7EiL2nBgG",
+      "department": "Front_End",
+      "gender": "male",
+      "first_name": "Ahmed",
+      "last_name": "Nasser",
+      "address": "cairo",
+      "job_title": "Front End",
+      "phone": "8969807654",
+      "country": "SR",
+      "role": "user",
+      "salary": "80000",
+      "id": 104
+    },
+    {
+      "email": "osama@gmail.com",
+      "password": "$2a$10$dOIHw5EbdzLQN4qPWAA9X.cttgI3dIOWRMP1gkeVUcYbkVF4C36/e",
+      "department": "Front_End",
+      "gender": "male",
+      "first_name": "Osama",
+      "last_name": "Elazero",
+      "address": "cairo",
+      "job_title": "Front End",
+      "phone": "1178240361",
+      "country": "SS",
+      "role": "user",
+      "salary": "50000",
+      "id": 105
+    },
+    {
+      "email": "mesho@mail.com",
+      "password": "$2a$10$48fPtiuB9MLBv6LORsCrn.l95eoKTHxPDCoBHfVbpXgrVnCvhpzra",
+      "department": "Assistant",
+      "gender": "male",
+      "first_name": "mohamed",
+      "last_name": "mesho",
+      "address": "9776 Sage Court",
+      "job_title": "cyber security",
+      "phone": "8969807654",
+      "country": "EG",
+      "role": "user",
+      "salary": "67830",
+      "id": 106
     }
   ],
   "holidays": [
