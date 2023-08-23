@@ -113,74 +113,36 @@
   ],
   "tasks": [
     {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
+      "id": "108",
+      "employee": "abdo nasr",
       "title": "website",
+      "from": "2023-08-23",
+      "to": "2023-08-24",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum."
+    },
+    {
+      "id": "101",
+      "employee": "Panda Code",
+      "title": "cpp project",
+      "from": "2023-08-24",
+      "to": "2023-09-30",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum."
+    },
+    {
+      "id": "106",
+      "employee": "mohamed mesho",
+      "title": "iquek",
+      "from": "2023-08-07",
+      "to": "2023-08-31",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum."
+    },
+    {
+      "id": "107",
+      "employee": "Yassmen Abden",
+      "title": "robot",
       "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    },
-    {
-      "id": "105",
-      "employee": "Osama Elazero",
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum.",
-      "title": "website",
-      "from": "2023-08-01",
-      "to": "2023-09-09"
-    }
-  ],
-  "roles": [
-    {
-      "id": 1,
-      "role": "user"
-    },
-    {
-      "id": 2,
-      "role": "user"
-    },
-    {
-      "id": 3,
-      "role": "user"
+      "to": "2024-08-24",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum et vel iste reprehenderit ullam doloribus. Omnis, perspiciatis laboriosam commodi voluptates, inventore vero beatae mollitia, ratione consequuntur dicta praesentium excepturi earum."
     }
   ],
   "users": [
@@ -1609,21 +1571,6 @@
       "role": "user"
     },
     {
-      "id": 97,
-      "first_name": "Sylas",
-      "last_name": "Coviello",
-      "email": "scoviello2o@histats.com",
-      "gender": "male",
-      "salary": 64046,
-      "password": "$2a$10$L00QUvpyDNSrK9YAyTOqGeKa4DX3DnrGgN62x9240IJAHdlhI4Hci",
-      "address": "7947 Mandrake Drive",
-      "job_title": "Pathologist",
-      "phone": "4875022823",
-      "country": "NZ",
-      "department": "Librarian",
-      "role": "user"
-    },
-    {
       "id": 98,
       "first_name": "Arlyne",
       "last_name": "Cardoe",
@@ -1667,21 +1614,6 @@
       "role": "user",
       "department": "Back_End",
       "id": 13
-    },
-    {
-      "email": "admin@gmail.com",
-      "password": "$2a$10$oNpb8XMrwZTazj6zlu8V4uqIVVxE7yC23QGCGBVEJJFCek279mFoK",
-      "id": 100,
-      "first_name": "Yasser",
-      "last_name": "Alnajjar",
-      "address": "giza",
-      "job_title": "Front End",
-      "phone": "01121081998",
-      "country": "EG",
-      "gender": "male",
-      "salary": 27631,
-      "role": "Admin",
-      "department": "Front_End"
     },
     {
       "email": "panda@mail.com",
@@ -1757,6 +1689,51 @@
       "role": "user",
       "salary": "67830",
       "id": 106
+    },
+    {
+      "email": "yassmen@mail.com",
+      "password": "$2a$10$j/eJSGz7kA0qv2XTxpdF4.QJAKQdQldx9oUsnw07WPTnTopLbWnOa",
+      "gender": "female",
+      "first_name": "Yassmen",
+      "last_name": "Abden",
+      "address": "cairo",
+      "job_title": "Ai",
+      "phone": "8969807654",
+      "country": "EG",
+      "role": "user",
+      "salary": "67830",
+      "department": "AI",
+      "id": 107
+    },
+    {
+      "email": "abdonasr@mail.com",
+      "password": "$2a$10$x.Z3t9VAKk6ag1mZzYvuMuLoPiLCECzs6j7Lnf53cWii0C2OAlgRy",
+      "department": "Front_End",
+      "gender": "male",
+      "first_name": "abdo",
+      "last_name": "nasr",
+      "address": "giza",
+      "job_title": "Front End",
+      "phone": "8969807654",
+      "country": "EG",
+      "role": "user",
+      "salary": "69029",
+      "id": 108
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$IHYWlitwqOVZxpbkVhcUde2qBwUrMv9kOffFiyvLX8oS1izL2UWjq",
+      "first_name": "admin",
+      "last_name": "admin",
+      "address": "giza",
+      "job_title": "Front End",
+      "phone": "01121081998",
+      "country": "EG",
+      "gender": "male",
+      "role": "Admin",
+      "salary": 27631,
+      "department": "Front_End",
+      "id": 109
     }
   ],
   "holidays": [
@@ -2961,6 +2938,64 @@
       "other": 0,
       "leave": 3334,
       "total": 49998
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Carlson Tech",
+      "contact": "Betty Carlson",
+      "phone": 9876543210,
+      "email": "bettycarlson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Cream Inc",
+      "contact": "Ruby Bartlett",
+      "phone": 9876543210,
+      "email": "rubybartlett@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Delta Infotech",
+      "contact": "Tressa Wexler",
+      "phone": 9876543210,
+      "email": "tressawexler@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Global Technologies",
+      "contact": "Barry Cuda",
+      "phone": 9876543210,
+      "email": "barrycuda@example.com"
+    },
+    {
+      "id": 5,
+      "name": "International Software",
+      "contact": "Walter Weaver",
+      "phone": 9876543210,
+      "email": "walterweaver@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Mercury Software",
+      "contact": "Amanda Warren",
+      "phone": 9876543210,
+      "email": "amandawarren@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Mustang Technologies",
+      "contact": "Daniel Deacon",
+      "phone": 9876543210,
+      "email": "danieldeacon@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Wellware Company",
+      "contact": "Misty Tison",
+      "phone": 9876543210,
+      "email": "mistytison@example.com"
     }
   ]
 }
