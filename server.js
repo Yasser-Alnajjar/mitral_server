@@ -5,6 +5,7 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 const PORT = 9000;
+
 app.db = router.db;
 const routes = {
   "/users": "/660/users",
@@ -21,6 +22,7 @@ const routes = {
   "/leaves": "/660/leaves",
   "/leaves/:id": "/660/leaves/:id",
 };
+
 app.use(jsonServer.rewriter(routes));
 app.use(middlewares);
 app.use(auth);
