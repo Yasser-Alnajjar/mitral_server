@@ -61,11 +61,6 @@
       "leader": "Reg"
     },
     {
-      "id": 15,
-      "name": "Desk_Operator",
-      "leader": "Mallory"
-    },
-    {
       "id": 16,
       "name": "Pathologist",
       "leader": "Flore"
@@ -94,6 +89,11 @@
       "name": "Support",
       "leader": "Ahmed",
       "id": 21
+    },
+    {
+      "name": "Desk_Operator",
+      "leader": "Mallory",
+      "id": 22
     }
   ],
   "branches": [
@@ -966,21 +966,6 @@
       "role": "user"
     },
     {
-      "id": 57,
-      "first_name": "Elene",
-      "last_name": "Thomel",
-      "email": "ethomel1k@over-blog.com",
-      "password": "$2a$10$kpIsssgcRkIHrUhaTuddCuPicOocP2LkVVJe3204DiSpQCTmDepGK",
-      "address": "8198 Quincy Terrace",
-      "job_title": "Support",
-      "phone": "5795635282",
-      "country": "ML",
-      "gender": "female",
-      "role": "user",
-      "salary": 55070,
-      "department": "Support"
-    },
-    {
       "id": 58,
       "first_name": "Juliet",
       "last_name": "Bourthouloume",
@@ -1057,18 +1042,18 @@
     },
     {
       "id": 63,
-      "department": "Editor",
-      "gender": "male",
-      "salary": 38455,
       "first_name": "Rosabelle",
       "last_name": "Carlyle",
       "email": "rcarlyle1q@shareasale.com",
-      "password": "$2a$10$Jmb8BbLYoprSIIYe02amsOgslEQv/wyHGUwK009.cY8kpIGHQBiXm",
+      "password": "$2a$10$qYoAR/l1MpTogY0tAHHcTuDDXMBYD81UVNaioyp5aDGbxySd.aQvm",
       "address": "898 Muir Plaza",
       "job_title": "Front_End",
       "phone": "01090179743",
       "country": "EG",
-      "role": "admin"
+      "gender": "male",
+      "role": "admin",
+      "salary": 38455,
+      "department": "Front_End"
     },
     {
       "id": 64,
@@ -1540,7 +1525,7 @@
       "first_name": "Rubin",
       "last_name": "Mariolle",
       "email": "rmariolle2m@sciencedirect.com",
-      "password": "$2a$10$I/F5vBYRuXPwiJ2FDdhsFeVtI9d8be0BpmZVMlmJqCxfGPBMvFbzC",
+      "password": "$2a$10$DoNe0AA79RseSmberWzD2OEtjj6Qnz0oWZZ53EbMQ76aN3LQQuaqG",
       "address": "182 Portage Lane",
       "job_title": "Recruiter",
       "phone": "5546136950",
@@ -1612,7 +1597,7 @@
     },
     {
       "email": "panda@mail.com",
-      "password": "$2a$10$Zhswb6jQKbYzWXY/iBvRuuWETLWB/iG1QWnaStfOxy5WPlN/gxvb6",
+      "password": "$2a$10$3pp2JG5wHRd6FdZpDGGC.u5um.tVMVb0ZglBp3suEWyt6tauWOyGK",
       "gender": "female",
       "first_name": "Panda",
       "last_name": "Code",
@@ -1621,7 +1606,7 @@
       "phone": "8969807654",
       "country": "SR",
       "role": "user",
-      "salary": 49999,
+      "salary": 336.6666666666667,
       "department": "Front_End",
       "id": 101
     },
@@ -1728,22 +1713,52 @@
       "gender": "male",
       "role": "Admin",
       "salary": 27631,
+      "department": "admin"
+    },
+    {
+      "id": 110,
+      "first_name": "Arlynea",
+      "last_name": "Bell",
+      "email": "arlynea@mail.com",
+      "password": "$2a$10$C4wnFykZ5jDSagsgsawNFeRaHD7ybmtcYJ0JVIwKYvt56spj3/9gC",
+      "address": "Cairo",
+      "job_title": "Front End",
+      "phone": "0123131313",
+      "country": "EG",
+      "gender": "male",
+      "role": "user",
+      "salary": "27631",
+      "department": "Front_End"
+    },
+    {
+      "id": 111,
+      "first_name": "abdel twab",
+      "last_name": "alnajjar",
+      "email": "abdeltwab@gmail.com",
+      "password": "$2a$10$j6Js9vNPm6L1j1tN.qKaReSECvn2a2S9HaRTVBkSGjBGGcJ.UhME2",
+      "address": "Giza",
+      "job_title": "Tester",
+      "phone": "01123123123",
+      "country": "EG",
+      "gender": "male",
+      "role": "Admin",
+      "salary": "200000",
       "department": "Support"
     },
     {
-      "email": "arlynea@mail.com",
-      "password": "$2a$10$a44XEDZ4NMcgxBqPBIvbKOWHuGkRk.uXjNoxW.yjFSHc9FhPXpqi.",
-      "department": "Front_End",
-      "gender": "male",
-      "first_name": "Arlynea",
-      "last_name": "Bell",
-      "address": "giza",
-      "job_title": "Front End",
-      "phone": "01090179792",
-      "country": "EG",
+      "id": 112,
+      "first_name": "Elene",
+      "last_name": "Thomel",
+      "email": "ethomel1k@over-blog.com",
+      "password": "$2a$10$7J5Ir6gL2fZb25dRzdSDT.8AwaD6.D3t5P3sovFVuRz4xJ8ij6DOm",
+      "address": "8198 Quincy Terrace",
+      "job_title": "Support",
+      "phone": "5795635282",
+      "country": "ML",
+      "gender": "female",
       "role": "user",
-      "salary": "27631",
-      "id": 110
+      "salary": "55070",
+      "department": "Support"
     }
   ],
   "holidays": [
@@ -1822,22 +1837,13 @@
       "reason": "go to hospital"
     },
     {
-      "id": "92",
-      "type": "casual",
-      "name": "Aaron Liddiard",
-      "status": true,
-      "to": "2023-08-26",
-      "from": "2023-08-25",
-      "reason": "fdfgg"
-    },
-    {
       "id": "107",
       "type": "medical",
       "name": "Yassmen Abden",
       "status": true,
       "to": "2023-08-30",
       "from": "2023-08-28",
-      "reason": "رايح المستشفي"
+      "reason": "go to hospital"
     }
   ],
   "overtime": [
@@ -2971,12 +2977,12 @@
       "id": "101",
       "first_name": "Panda",
       "last_name": "Code",
-      "salary": "50000",
-      "conveyance": "0",
-      "medical": "0",
-      "other": 0,
-      "leave": 1667,
-      "total": 49999
+      "salary": "200",
+      "conveyance": "50",
+      "medical": "50",
+      "other": "50",
+      "leave": 13.333333333333334,
+      "total": 336.6666666666667
     }
   ],
   "clients": [
