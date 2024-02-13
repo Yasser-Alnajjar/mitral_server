@@ -2,12 +2,12 @@
   "name": "database",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "serve": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yasser",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3",
